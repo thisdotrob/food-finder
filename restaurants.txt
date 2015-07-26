@@ -1,0 +1,8 @@
+Cafe Masala	Indian	30.0
+Hot Tamale	Mexican	25.0
+Mallard House	New American	35.0
+Milo's Snack Bar	Snacks	4.5
+Pita Pocket	Fast Food	10.0
+Quick Cup	Coffee	5.0
+Rob's Kebabs	Kebabs	0.99
+Taste of Little Italy	Pizza	10.0
