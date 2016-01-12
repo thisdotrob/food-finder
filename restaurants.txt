@@ -1,4 +1,5 @@
 Cafe Masala	Indian	30.0
+Herman's	Sausages	7.5
 Hot Tamale	Mexican	25.0
 Mallard House	New American	35.0
 Milo's Snack Bar	Snacks	4.5
